@@ -2,7 +2,7 @@
 
 # Assignment: Introduction
 CPSC 5340 - Mobile Applications Development 2: 
-Assignment-1
+Assignment-1-Emoji Counter
 
 
 Instructions
