@@ -13,7 +13,7 @@ Use foreach to iterate through an array and display items in List. Use SwiftUI.
 :grey_exclamation: `Finished Project`
 
 # Screenshot of Assignment 1 
-<img src= ">
+<img src=https://github.com/thompln83/CPSC5430---Assignment-1-Emoji-Counter/blob/ff678e00f3e680ae82b3c9e336fb41c3ced265bf/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202023-10-20%20at%2003.02.56.png">
 
 
 
